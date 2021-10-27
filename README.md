@@ -2,8 +2,8 @@
 
 <div align="center">
 	<br>
-	<a href="https://github.com/nandiaz/nandiaz/blob/main/banner.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	<a href="https://raw.githubusercontent.com/nandiaz/nandiaz/main/banner.svg">
+		<img src="banner.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
 </div>
