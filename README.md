@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/nandiaz/nandiaz/main/banner.svg">
-		<img src="banner.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
+![This is my banner](https://user-images.githubusercontent.com/86363644/139149386-ec1b829f-b231-4091-9f05-d1cfe6c34638.png)
+
+<h1 align= "center"> Hi! I'm a Front-End <br>Developer</h1>
+
+![img](https://user-images.githubusercontent.com/86363644/139150879-c228c775-d666-495e-bbb1-634dd75f61b1.png)
 
 <!--
 **nandiaz/nandiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
