@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-![This is my banner](https://user-images.githubusercontent.com/86363644/139149386-ec1b829f-b231-4091-9f05-d1cfe6c34638.png)
+![This is my banner](assets/1.png)
 
-<h1 align= "center"> Hi! I'm a Front-End <br>Developer</h1>
+<div align = "center"
+<h1 align= "center"> Hi! I'm a Front-End <br>Developer</h1><br>
+<img src = "assets/ajax-loader.gif"> <br>
+<p>In process...</p>
+</div>
 
-![img](https://user-images.githubusercontent.com/86363644/139150879-c228c775-d666-495e-bbb1-634dd75f61b1.png)
+![img](assets/2(1).png)
 
 <!--
 **nandiaz/nandiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
