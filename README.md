@@ -1,14 +1,19 @@
 ### Hi there 👋
 
-![This is my banner](assets/1.png)
+<div align = "center">
+     
+<img src= "assets/1.png" width= "600px" > <br>
 
-<div align = "center"
-<h1 align= "center"> Hi! I'm a Front-End <br>Developer</h1><br>
+
+
+<p align= "center"> Hi! I'm a Front-End <br>Developer</p><br>
 <img src = "assets/ajax-loader.gif"> <br>
 <p>In process...</p>
-</div>
 
-![img](assets/2(1).png)
+
+<img src= "assets/2(1).png" width= "600px" >
+
+</div>
 
 <!--
 **nandiaz/nandiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
